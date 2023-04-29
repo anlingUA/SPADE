@@ -15,4 +15,4 @@ devtools::install_github('anlingUA/SPADE')
 library(SPADE)
 ```
 
-For an example how to use [SPADE](yylu5.github.io/SPADE)
+For an example how to use [SPADE](https://yylu5.github.io/SPADE/)
