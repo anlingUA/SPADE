@@ -1,3 +1,8 @@
+---
+layout: default
+title: SPADE tutorial
+---
+
 ``` r
 library(tidyverse)
 #> ── Attaching packages ──────────────────────────────── tidyverse 1.3.2 ──
