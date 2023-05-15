@@ -4,9 +4,9 @@
 SPADE, a reference-based approach, harnesses the power of single-cell RNA sequencing data, spatial location details, and histological information to accurately estimate the proportions of various cell types at each spatial location. A crucial characteristic of SPADE is its ability to account for cell type sparsity across locations, thereby enabling the identification of cell types prior to proportion estimation.
 
 ## Installation
-#Dependencies
-R version >= 4.0.0.
-R packages: Biobase, caret, glmnet, tidyverse, NOISeq, EBImage
+# Dependencies
+- R version >= 4.0.0.
+- R packages: Biobase, caret, glmnet, tidyverse, NOISeq, EBImage
 
 ```{r}
 # install devtools if necessary
