@@ -9,7 +9,7 @@ SPADE, a reference-based approach, harnesses the power of single-cell RNA sequen
 install.packages('devtools')
 
 # install the SPADE package
-devtools::install_github('anlingUA/SPADE')
+devtools::install_github('YyLu5/SPADE')
 
 # load
 library(SPADE)
