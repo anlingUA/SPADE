@@ -14,5 +14,6 @@ devtools::install_github('anlingUA/SPADE')
 # load
 library(SPADE)
 ```
+- The first step of SPADE utilizes spaGCN to cluster locations into domains. To get the identified spatial domain of your data, refer to the tutorial of spaGCN (https://github.com/jianhuupenn/SpaGCN)
 
-For an example how to use [SPADE](https://yylu5.github.io/SPADE/Intro_to_SPADE.html)
+- For an example how to use [SPADE](https://yylu5.github.io/SPADE/Intro_to_SPADE.html)
