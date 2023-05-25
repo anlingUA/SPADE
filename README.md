@@ -14,12 +14,12 @@ SPADE, a reference-based approach, harnesses the power of single-cell RNA sequen
 install.packages('devtools')
 
 # install the SPADE package
-devtools::install_github('YyLu5/SPADE')
+devtools::install_github('anlingua/SPADE')
 
 # load
 library(SPADE)
 ```
 - The first step of SPADE utilizes spaGCN to cluster locations into domains. To get the identified spatial domain of your data, refer to the tutorial of [spaGCN](https://github.com/jianhuupenn/SpaGCN)
 
-- For an example how to use [SPADE](https://yylu5.github.io/SPADE/Intro_to_SPADE.html)
+- For an example how to use [SPADE](https://anlingua.github.io/SPADE/Intro_to_SPADE.html)
 - Data used for the tutorial can be downloaded from [here](https://figshare.com/projects/SPADE/167252)
