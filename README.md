@@ -22,4 +22,4 @@ library(SPADE)
 - The first step of SPADE utilizes spaGCN to cluster locations into domains. To get the identified spatial domain of your data, refer to the tutorial of [spaGCN](https://github.com/jianhuupenn/SpaGCN)
 
 - For an example how to use [SPADE](https://anlingua.github.io/SPADE/Intro_to_SPADE.html)
-- Data used for the tutorial can be downloaded from [here](https://figshare.com/projects/SPADE/167252)
+- Data used for the tutorial can be downloaded from [here](https://figshare.com/projects/SPADE/167252 https://figshare.com/account/home#/projects/168116)
